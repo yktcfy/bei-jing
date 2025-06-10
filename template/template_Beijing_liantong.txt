@@ -16,17 +16,17 @@ http://ipipip/rtp/239.3.1.22:8001
 http://ipipip/rtp/239.2.1.236:2000
 #EXTINF:-1 tvg-id="北京4K" tvg-name="北京4K" tvg-logo="https://live.fanmingming.com/tv/北京4K.png" group-title="本地高清",北京4K
 http://ipipip/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
+#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://ipipip/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
+#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
 http://ipipip/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘精彩.png" group-title="卫视高清",北京淘精彩
+#EXTINF:-1 tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/北京淘精彩.png" group-title="卫视高清",北京淘精彩
 http://ipipip/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
+#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
 http://ipipip/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://www.yangfeiyue.cn/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
+#EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
 http://ipipip/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://www.yangfeiyue.cn/tv/萌宠TV.png" group-title="本地高清",萌宠TV
+#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="本地高清",萌宠TV
 http://ipipip/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="本地高清",北京新闻
 http://ipipip/rtp/239.3.1.159:8000
@@ -44,7 +44,7 @@ http://ipipip/rtp/239.3.1.115:8000
 http://ipipip/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="本地高清",北京体育休闲
 http://ipipip/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://www.yangfeiyue.cn/tv/北京国际频道.png" group-title="本地高清",北京国际频道
+#EXTINF:-1 tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京国际频道.png" group-title="本地高清",北京国际频道
 http://ipipip/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="本地高清",金鹰纪实
 http://ipipip//rtp/239.3.1.58:8156
@@ -58,11 +58,11 @@ http://ipipip/rtp/239.3.1.163:8001
 http://ipipip/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="卫视高清",中国教育1台
 http://ipipip/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩竞技.png" group-title="卫视高清",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="卫视高清",睛彩竞技
 http://ipipip/rtp/239.3.1.125:8001
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="卫视高清",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="卫视高清",睛彩篮球
 http://ipipip/rtp/239.3.1.126:8001
 #EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://live.fanmingming.com/tv/睛彩羽毛球.png" group-title="卫视高清",睛彩羽毛球
 http://ipipip/rtp/239.3.1.127:8001
-#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
+#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
 http://ipipip/rtp/239.3.1.128:8001
